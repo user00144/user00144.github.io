@@ -1,5 +1,7 @@
 # SeungEun Kang
 
+### Undergraduate Student , Junior @ Kyonggi University
+
 ---
 
 Hello, my name is Seungeun Kang, an undergraduate student at Kyonggi University. My major is Computer Engineering.</br> 
