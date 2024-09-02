@@ -2,9 +2,9 @@
 
 ### Undergraduate Student , Junior @ Kyonggi University
 
----
-
 Hello, my name is Seungeun Kang. I'm born in 2001, 24-years old. I'm currently undergraduate research student @ Smart IoT Lab, under the guidance fo Prof. Namgi Kim. I'm also an undergraduate student, Junior at Kyonggi University majoring Computer Engineering since 2020. 
+
+---
 
 ### Research Interest
 
