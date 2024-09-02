@@ -4,9 +4,12 @@
 
 ---
 
-Hello, my name is Seungeun Kang, an undergraduate student at Kyonggi University. My major is Computer Engineering.</br> 
-My research value is “Creating artificial intelligence that contributes deeply to daily life.” </br>
-Therefore, I am interested in the fields of **Edge Intelligence** and **AIoT(Internet of Things)**. </br>
+Hello, my name is Seungeun Kang, an undergraduate student at Kyonggi University. My major is Computer Engineering.
+
+My research value is “Creating artificial intelligence that contributes deeply to daily life.” 
+
+Therefore, I am interested in the fields of **Edge Intelligence** and **AIoT(Internet of Things)**. 
+
 Currently, I am an undergraduate researcher in Smart IoT Lab @ KGU. 
 
 
