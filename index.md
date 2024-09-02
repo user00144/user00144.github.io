@@ -7,9 +7,7 @@
 Hello, my name is Seungeun Kang, an undergraduate student at Kyonggi University. My major is Computer Engineering.
 
 My research value is “Creating artificial intelligence that contributes deeply to daily life.” 
-
 Therefore, I am interested in the fields of **Edge Intelligence** and **AIoT(Internet of Things)**. 
-
 Currently, I am an undergraduate researcher in Smart IoT Lab @ KGU. 
 
 
@@ -29,7 +27,7 @@ Currently, I am an undergraduate researcher in Smart IoT Lab @ KGU.
 
   Suwon, Republic of Korea (**Feb 2020 ~ Feb 2026**, **expected**)
 
-  **Junior** , Computer Science Engineering , GPA(4.36 / 4.5)  / in-major(4.38 / 4.5)
+  **Junior** , Computer Engineering , GPA(4.36 / 4.5)  / in-major(4.38 / 4.5)
 
   Thesis :  .
 
@@ -37,17 +35,17 @@ Currently, I am an undergraduate researcher in Smart IoT Lab @ KGU.
 
 ## 🔍 Research Experiences
 
-### Smart IoT Lab : Kyonggi University
+> ### Smart IoT Lab : Kyonggi University
  **Undergraduate Researcher , Jul 2023 ~ Present**
 - Working on variable personal & team projects
 - Experience in building deep learning servers ( Using **Docker**, **Linux** )
 - Experience in writing several conference papers ( Domestic, International )
 
-### K-Software Empowerment bootcamp
+> ### K-Software Empowerment bootcamp
 **Trainee , Dec 2023 ~ Nov 2024**
 - 210 hours of training about background knowledge to work on project
 
-### Lotte Innovate AI Tech Team : LOTTE
+> ### Lotte Innovate AI Tech Team : LOTTE
 **Research Intern, Jul 2024 ~ Aug 2024**
 - 240 hours of R&D Project Experience
 
@@ -77,7 +75,29 @@ Currently, I am an undergraduate researcher in Smart IoT Lab @ KGU.
 
 ---
 
-## 🏆 Awards & **Certifications**
+## 👨🏻‍💻 Projects
+
+1. **Raspberry Pi handwriting image classification**(*Personal Project, Jul 2023 - Aug 2023*) : Building an on-device handwriting recognition model using CNN models and MNIST datasets([github/pr1-hand_writing](https://github.com/user00144/pr1-hand_writing))
+2. **DACON Seoul Average Temperature Forecasting Competition**(*Competition, Dec 2023 - Jan 2024*) : Competition for temperature prediction using time series prediction models ([github/dacon_seoul_hack](https://github.com/user00144/dacon_seoul_hack))
+3. **Fake News Detection with Language Models**(*Personal Project, Jan 2024 - Feb 2024*) : Detecting click-bait news with KoBERT model embeddings ([github/fake_news_detection](https://github.com/user00144/fake_news_detection))
+4. **Fake News Detection with Language Models**(*Personal Project, Jan 2024 - Feb 2024*) : Detecting click-bait news with KoBERT model embeddings ([github/fake_news_detection](https://github.com/user00144/fake_news_detection))
+5. **BELIEVE : Vision Based Edge Intelligence System for Safety Management**(*Team Project, Mar 2024 - Jun 2024*) : Building Vison-based safety management system using object detection model and edge intelligence technology ([github/BELIEVE](https://github.com/user00144/basic_capstone_BELIEVE_ai_server))
+6. **Review Text Based Rating prediction with Large Language Model**(*Personal Project, Mar 2024 - May 2024*) : Developing a rating prediction model using LLM Lora fine-tuning ([github/rating_prediction_LLM](https://github.com/user00144/rating_prediction_LLM))
+7. **Human Understanding AI Paper Challenge 2024**(*Competition, May 2024 - Jul 2024*) : Building a model to predict sleep quality using lifelog data ([github/2024_ETRI_competition](https://github.com/user00144/2024_ETRI_competition))
+8. **K-Contents Specialized Text2Img Pipeline4**(*Team Project, Jul 2024 - Aug 2024*) : Building a pipeline to understand Korean, generate K-Contents Images well.([github/kor_sd](https://github.com/user00144/kor_sd))
+
+---
+
+## 💯 Teaching Experiences
+
+1. **2023 Gyonggichango Mentoring**(*with JAKorea, Jul 2023 - Aug 2023*) : Mentoring experience for middle & high school students ([more](https://github.com/user00144/teachingexp_repo/tree/main/2023_Gyonggichango))
+2.  **SAP- Solve it together Mentoring**(*with JAKorea & SAP, Jul 2023 - Aug 2023*) : Mentoring experience for middle & high school students ([more](https://github.com/user00144/teachingexp_repo/tree/main/SAP))
+3.   **Basic Tutoring : Stepping Stone Tutoring 24-1**(*with KGU, Mar 2024 - Jun 2024*) : Student-to-student tutoring experience as tutor ([more](https://github.com/user00144/teachingexp_repo/tree/main/tutor_2024))
+
+
+---
+
+## 🏆 Awards & Certifications
 
 ### Scholarships
 
@@ -121,5 +141,3 @@ Currently, I am an undergraduate researcher in Smart IoT Lab @ KGU.
 
 
 ---
-
-### 🤗 For more information(Teaching & Project Experiences ...) you can visit [**[this(notion CV) page]**](https://steady-bison-0a8.notion.site/SeungEun-Kang-830728379b0d4e1fa8ec057f14fab68a?pvs=4)
