@@ -25,9 +25,9 @@ My dream is to be *“a person who creates useful things for everyday life”*. 
 
 ### B.S : Kyonggi University
 
-  Suwon, Republic of Korea (**Feb 2020 ~ Feb 2026**, **expected**)
+  Suwon, Republic of Korea (*Feb 2020 ~ Feb 2026, expected*)
 
-  **Junior** , Computer Engineering , GPA(4.36 / 4.5)  / in-major(4.38 / 4.5)
+  Junior , Computer Engineering , **GPA(4.36 / 4.5)**  / in-major(4.38 / 4.5)
 
   Thesis :  .
 
@@ -36,17 +36,17 @@ My dream is to be *“a person who creates useful things for everyday life”*. 
 ## 🔍 Research Experiences
 
 > ### Smart IoT Lab : Kyonggi University
- **Undergraduate Researcher , Jul 2023 ~ Present**
+Undergraduate Researcher , Jul 2023 ~ Present
 - Working on variable personal & team projects
 - Experience in building deep learning servers ( Using **Docker**, **Linux** )
 - Experience in writing several conference papers ( Domestic, International )
 
 > ### K-Software Empowerment bootcamp
-**Trainee , Dec 2023 ~ Nov 2024**
+Trainee , Dec 2023 ~ Nov 2024
 - 210 hours of training about background knowledge to work on project
 
 > ### Lotte Innovate AI Tech Team : LOTTE
-**Research Intern, Jul 2024 ~ Aug 2024**
+Research Intern, Jul 2024 ~ Aug 2024
 - 240 hours of R&D Project Experience
 
 ---
