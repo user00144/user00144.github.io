@@ -1,33 +1,26 @@
 # SeungEun Kang
 
-### Undergraduate Student , Junior @ Kyonggi University
-
 ---
 
-My name is SeungEun Kang. </br>
-I’m **Undergraduate Student** in the **Kyonggi University,** </br>
-Division of AI Computer Science & Engineering,  Computer Science Engineering . </br>
-**My research interests** include </br>
- ***Edge Intelligence*** and ***AI with Internet of Things(AIoT).*** </br>
-I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://netlab.kyonggi.ac.kr/)].**
+Hello, my name is Seungeun Kang, an undergraduate student at Kyonggi University. My major is Computer Engineering.</br> 
+My research value is “Creating artificial intelligence that contributes deeply to daily life.” </br>
+Therefore, I am interested in the fields of **Edge Intelligence** and **AIoT(Internet of Things)**. </br>
+Currently, I am an undergraduate researcher in Smart IoT Lab @ KGU. 
 
 
 ### Contact me
 
 > **Ⓜ️ Email:  [haun620@kyonggi.ac.kr](mailto://haun620@kyonggi.ac.kr)**
-> 
 
 > **💻 Github : [https://github.com/user00144/](https://github.com/user00144/)**
-> 
 
 > **🅱️ blog : [https://kang-se.tistory.com/](https://kang-se.tistory.com/)**
-> 
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-## B.S : Kyonggi University
+### B.S : Kyonggi University
 
   Suwon, Republic of Korea (**Feb 2020 ~ Feb 2026**, **expected**)
 
@@ -37,7 +30,7 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 
 ---
 
-# 🔍 Research Experiences
+## 🔍 Research Experiences
 
 ### Smart IoT Lab : Kyonggi University
  **Undergraduate Researcher , Jul 2023 ~ Present**
@@ -55,7 +48,7 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 
 ---
 
-# 📄 Publications
+## 📄 Publications
 
 ### International Conferences
 
@@ -79,7 +72,7 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 
 ---
 
-# 🏆 Awards & **Certifications**
+## 🏆 Awards & **Certifications**
 
 ### Scholarships
 
@@ -96,13 +89,13 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 ### Certifications
 
 - **Certified Software Test Specialist Foundation Level** (certified from TTA, Mar. 2023)
-- **Test Of Practical Competency in IT level 3 | 536** (certified from IITP, May. 2024)
+- **Test Of Practical Competency in IT level 3 (536)** (certified from IITP, May. 2024)
 
 ---
 
-# 💡 Skills & Techniques
+## 💡 Skills & Techniques
 
-## Programming Language
+### Programming Language
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -111,7 +104,7 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-## Software Stack
+### Software Stack
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -123,8 +116,5 @@ I’m **undergraduate researcher** in the **Smart IoT Lab@ KGU [[link](https://n
 
 
 ---
-
-
-
 
 ### 🤗 For more information(Teaching & Project Experiences ...) you can visit [**[this(notion CV) page]**](https://steady-bison-0a8.notion.site/SeungEun-Kang-830728379b0d4e1fa8ec057f14fab68a?pvs=4)
