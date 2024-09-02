@@ -4,11 +4,11 @@
 
 ---
 
-Hello, my name is Seungeun Kang, an undergraduate student at Kyonggi University. My major is Computer Engineering.
+Hello, my name is Seungeun Kang. I'm born in 2001, 24-years old. I'm currently undergraduate research student @ Smart IoT Lab, under the guidance fo Prof. Namgi Kim. I'm also an undergraduate student, Junior at Kyonggi University majoring Computer Engineering since 2020. 
 
-My research value is “Creating artificial intelligence that contributes deeply to daily life.” 
-Therefore, I am interested in the fields of **Edge Intelligence** and **AIoT(Internet of Things)**. 
-Currently, I am an undergraduate researcher in Smart IoT Lab @ KGU. 
+### Research Interest
+
+My dream is to be *“a person who creates useful things for everyday life”*. I believe that **“Edge Intelligence”** and **“AI with Internet of Things”** are the closest to this dream. As an undergraduate, my goal was to *“experience as many fields as possible”*, but in my master's and PhD research, I want to deeply understand the above two fields. Especially in the first field, I am interested in networking, distributed processing, and optimizing on-device inference in the field of “Edge Intelligence”. Secondly, in the field of AI with Internet of Things, I am interested in R&D activities such as healthcare and HCI (Human-Computer-Interaction).
 
 
 ### Contact me
@@ -80,11 +80,10 @@ Currently, I am an undergraduate researcher in Smart IoT Lab @ KGU.
 1. **Raspberry Pi handwriting image classification**(*Personal Project, Jul 2023 - Aug 2023*) : Building an on-device handwriting recognition model using CNN models and MNIST datasets([github/pr1-hand_writing](https://github.com/user00144/pr1-hand_writing))
 2. **DACON Seoul Average Temperature Forecasting Competition**(*Competition, Dec 2023 - Jan 2024*) : Competition for temperature prediction using time series prediction models ([github/dacon_seoul_hack](https://github.com/user00144/dacon_seoul_hack))
 3. **Fake News Detection with Language Models**(*Personal Project, Jan 2024 - Feb 2024*) : Detecting click-bait news with KoBERT model embeddings ([github/fake_news_detection](https://github.com/user00144/fake_news_detection))
-4. **Fake News Detection with Language Models**(*Personal Project, Jan 2024 - Feb 2024*) : Detecting click-bait news with KoBERT model embeddings ([github/fake_news_detection](https://github.com/user00144/fake_news_detection))
-5. **BELIEVE : Vision Based Edge Intelligence System for Safety Management**(*Team Project, Mar 2024 - Jun 2024*) : Building Vison-based safety management system using object detection model and edge intelligence technology ([github/BELIEVE](https://github.com/user00144/basic_capstone_BELIEVE_ai_server))
-6. **Review Text Based Rating prediction with Large Language Model**(*Personal Project, Mar 2024 - May 2024*) : Developing a rating prediction model using LLM Lora fine-tuning ([github/rating_prediction_LLM](https://github.com/user00144/rating_prediction_LLM))
-7. **Human Understanding AI Paper Challenge 2024**(*Competition, May 2024 - Jul 2024*) : Building a model to predict sleep quality using lifelog data ([github/2024_ETRI_competition](https://github.com/user00144/2024_ETRI_competition))
-8. **K-Contents Specialized Text2Img Pipeline4**(*Team Project, Jul 2024 - Aug 2024*) : Building a pipeline to understand Korean, generate K-Contents Images well.([github/kor_sd](https://github.com/user00144/kor_sd))
+4. **BELIEVE : Vision Based Edge Intelligence System for Safety Management**(*Team Project, Mar 2024 - Jun 2024*) : Building Vison-based safety management system using object detection model and edge intelligence technology ([github/BELIEVE](https://github.com/user00144/basic_capstone_BELIEVE_ai_server))
+5. **Review Text Based Rating prediction with Large Language Model**(*Personal Project, Mar 2024 - May 2024*) : Developing a rating prediction model using LLM Lora fine-tuning ([github/rating_prediction_LLM](https://github.com/user00144/rating_prediction_LLM))
+6. **Human Understanding AI Paper Challenge 2024**(*Competition, May 2024 - Jul 2024*) : Building a model to predict sleep quality using lifelog data ([github/2024_ETRI_competition](https://github.com/user00144/2024_ETRI_competition))
+7. **K-Contents Specialized Text2Img Pipeline4**(*Team Project, Jul 2024 - Aug 2024*) : Building a pipeline to understand Korean, generate K-Contents Images well.([github/kor_sd](https://github.com/user00144/kor_sd))
 
 ---
 
