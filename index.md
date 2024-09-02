@@ -85,7 +85,7 @@ My dream is to be *“a person who creates useful things for everyday life”*. 
 4. **BELIEVE : Vision Based Edge Intelligence System for Safety Management**(*Team Project, Mar 2024 - Jun 2024*) ([github/BELIEVE](https://github.com/user00144/basic_capstone_BELIEVE_ai_server))
 5. **Review Text Based Rating prediction with Large Language Model**(*Personal Project, Mar 2024 - May 2024*) ([github/rating_prediction_LLM](https://github.com/user00144/rating_prediction_LLM))
 6. **Human Understanding AI Paper Challenge 2024**(*Competition, May 2024 - Jul 2024*) ([github/2024_ETRI_competition](https://github.com/user00144/2024_ETRI_competition))
-7. **K-Contents Specialized Text2Img Pipeline4**(*Team Project, Jul 2024 - Aug 2024*) ([github/kor_sd](https://github.com/user00144/kor_sd))
+7. **K-Contents Specialized Text2Img Pipeline**(*Team Project, Jul 2024 - Aug 2024*) ([github/kor_sd](https://github.com/user00144/kor_sd))
 
 ---
 
