@@ -55,9 +55,9 @@ Research Intern, Jul 2024 ~ Aug 2024
 
 ### International Conferences
 
-- **S Kang**, N Kim, “**A Study on User Review text–Based Rating prediction system Using Large Lange Model Finetuning**”, 19th Asia Pacific International Conference on Information Science and Technology, June. 2024 ([Poster](https://drive.google.com/file/d/1YLVw6sgjBlaHF4Yyy-IJ7M1FGBALVMTF/view?usp=share_link))
+- **S Kang**, N Kim, **“A Study on User Review text–Based Rating prediction system Using Large Lange Model Finetuning”**, 19th Asia Pacific International Conference on Information Science and Technology, June. 2024 ([Poster](https://drive.google.com/file/d/1YLVw6sgjBlaHF4Yyy-IJ7M1FGBALVMTF/view?usp=share_link))
 
-- **S Kang**, K Jin, N kim, “**Research on Memory-efficient Approach to Sleep Quality Estimation for Edge Devices**”, The 15th International Conference on ICT Convergence, Oct. 2024 ([Poster](https://drive.google.com/file/d/1B182B7Tv0vpCtG4L2q94V1-W6TtkZFuw/view?usp=sharing))
+- **S Kang**, J Kim, N Kim, **“Research on Memory-efficient Approach to Sleep Quality Estimation for Edge Devices”**, The 15th International Conference on ICT Convergence, Oct. 2024 ([Poster](https://drive.google.com/file/d/1B182B7Tv0vpCtG4L2q94V1-W6TtkZFuw/view?usp=sharing))
 
 - **S Kang**, D Lee, S Han, S Lim, N Kim , **“Research on Building K-Contents Specialized Text2Image Pipeline”**, The 27th International Conference on Advanced Communication Technology, Feb. 2025
 
@@ -67,9 +67,9 @@ Research Intern, Jul 2024 ~ Aug 2024
 
 ### Domestic Conferences
 
-- **S Kang** , N Kim , “**Using Raspberry Pi and MNIST Dataset A study on handwriting images classification in an on-device environment**” , *Korean Society For Internet Information Spring Conference* , Apr. 2024 ([Poster](https://drive.google.com/file/d/1BgcvG3kA7U0VI-KQzcHYQqIPO5ovPm3L/view?usp=drive_link))
-- **S Kang** , N Kim , “**Using activation function and ko-BERT Research of Click-bait Detection**” , *Korean Society For Internet Information Spring Conference* , Apr. 2024 ([Poster](https://drive.google.com/file/d/115gUfmaNk2R9EhooOPKCI5HhTQLJC9ps/view?usp=drive_link))
-- 🏆 **S Kang**, E Park, G Park, J Park, K Park, Y Moon, N Kim , “**BELIEVE : Vision-Based Edge Intelligence System for Safety Management on Industrial Environment**”, Korean Institute of Information Technology Summer Conference, May. 2024 ([Poster](https://drive.google.com/file/d/1HCnWueAUo6fVNVpQvq6ZnHvBQBef_QdA/view?usp=sharing)) 
+- **S Kang** , N Kim , **"Using Raspberry Pi and MNIST Dataset A study on handwriting images classification in an on-device environment"** , Korean Society For Internet Information Spring Conference , Apr. 2024 ([Poster](https://drive.google.com/file/d/1BgcvG3kA7U0VI-KQzcHYQqIPO5ovPm3L/view?usp=drive_link))
+- **S Kang** , N Kim , **"Using activation function and ko-BERT Research of Click-bait Detection"** , Korean Society For Internet Information Spring Conference , Apr. 2024 ([Poster](https://drive.google.com/file/d/115gUfmaNk2R9EhooOPKCI5HhTQLJC9ps/view?usp=drive_link))
+- 🏆 **S Kang**, E Park, G Park, J Park, K Park, Y Moon, N Kim , **"BELIEVE : Vision-Based Edge Intelligence System for Safety Management on Industrial Environment"**, Korean Institute of Information Technology Summer Conference, May. 2024 ([Poster](https://drive.google.com/file/d/1HCnWueAUo6fVNVpQvq6ZnHvBQBef_QdA/view?usp=sharing)) 
 
 ### Domestic journals
 
@@ -109,7 +109,7 @@ Research Intern, Jul 2024 ~ Aug 2024
 
 ### Awards
 
-- **Best Paper Award(Gold prize)** in Korean Institute of Information Technology Summer Conference (May. 2024)
+- **Best Paper Award** in Korean Institute of Information Technology Summer Conference (May. 2024)
 - **Excellence Award** in Basic Capstone Design Competition, Kyonggi University (Jun. 2024)
 
 ### Certifications
