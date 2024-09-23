@@ -2,7 +2,7 @@
 
 ### Undergraduate Student , Junior @ Kyonggi University
 
-Hello, my name is Seungeun Kang. I'm born in 2001, 24-years old. I'm currently undergraduate research student @ Smart IoT Lab, under the guidance fo Prof. Namgi Kim. I'm also an undergraduate student, Junior at Kyonggi University majoring Computer Engineering since 2020. 
+Hello, my name is Seungeun Kang. I'm born in 2001, 24-years old. I'm currently undergraduate research student @ Smart IoT Lab, under the guidance fo Prof. Namgi Kim. I'm also an undergraduate student, Junior at Kyonggi University majoring Computer Engineering since 2020. And I was discharged from my military service in Aug 2022.
 
 ---
 
@@ -38,16 +38,16 @@ My dream is to be *“a person who creates useful things for everyday life”*. 
 > ### Smart IoT Lab : Kyonggi University
 Undergraduate Researcher , Jul 2023 ~ Present
 - Working on variable personal & team projects
-- Experience in building deep learning servers ( Using **Docker**, **Linux** )
+- Experience in building deep learning servers ( Using Docker, Linux )
 - Experience in writing several conference papers ( Domestic, International )
 
 > ### K-Software Empowerment bootcamp
 Trainee , Dec 2023 ~ Nov 2024
-- 210 hours of training about background knowledge to work on project
+- Learning cloud(AWS, GCP), Socket programming, Basis of AI
 
 > ### Lotte Innovate AI Tech Team : LOTTE
 Research Intern, Jul 2024 ~ Aug 2024
-- 240 hours of R&D Project Experience
+- Experience of working on R&D internship about Text2Image Generative Model
 
 ---
 
