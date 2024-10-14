@@ -8,7 +8,7 @@ Hello, my name is Seungeun Kang. I'm born in 2001, 24-years old. I'm currently u
 
 ### Research Interest
 
-My dream is to be *“a person who creates useful things for everyday life”*. I believe that **“Edge Intelligence”** and **“AI with Internet of Things”** are the closest to this dream. As an undergraduate, my goal was to *“experience as many fields as possible”*, but in my master's and PhD research, I want to deeply understand the above two fields. Especially in the first field, *I am interested in networking, distributed processing, and optimizing on-device inference in the field of “Edge Intelligence”. Secondly, in the field of AI with Internet of Things, I am interested in R&D activities such as healthcare and HCI (Human-Computer-Interaction).*
+My dream is to be *“a person who creates useful things for everyday life”*. I believe that **“Edge Intelligence”** and **“AI with Internet of Things”** are the closest to this dream. As an undergraduate, my goal was to *“experience as many fields as possible”*, but in my master's and PhD research, I want to deeply understand the above two fields. Especially in the first field, I am interested in networking, distributed processing, and optimizing on-device inference in the field of **“Edge Intelligence”**. Secondly, in the field of **AI with Internet of Things,** I am interested in R&D activities such as **healthcare and HCI(Human-Computer-Interaction).**
 
 
 ### Contact me
@@ -38,8 +38,8 @@ My dream is to be *“a person who creates useful things for everyday life”*. 
 > ### Smart IoT Lab : Kyonggi University
 Undergraduate Researcher , Jul 2023 ~ Present
 - Working on variable personal & team projects
-- Experience in building deep learning servers ( Using Docker, Linux )
-- Experience in writing several conference papers ( Domestic, International )
+- Experience in building deep learning servers
+- Experience in writing several conference papers
 
 > ### K-Software Empowerment bootcamp
 Trainee , Dec 2023 ~ Nov 2024
@@ -47,7 +47,7 @@ Trainee , Dec 2023 ~ Nov 2024
 
 > ### Lotte Innovate AI Tech Team : LOTTE
 Research Intern, Jul 2024 ~ Aug 2024
-- Experience of working on R&D internship about Text2Image Generative Model
+- Experience of working on **R&D internship** about Text2Image Generative Model
 
 ---
 
@@ -55,11 +55,11 @@ Research Intern, Jul 2024 ~ Aug 2024
 
 ### International Conferences
 
-- **S Kang**, N Kim, **“A Study on User Review text–Based Rating prediction system Using Large Lange Model Finetuning”**, 19th Asia Pacific International Conference on Information Science and Technology, June. 2024 ([Poster](https://drive.google.com/file/d/1YLVw6sgjBlaHF4Yyy-IJ7M1FGBALVMTF/view?usp=share_link))
+- **S Kang**, N Kim, **“A Study on User Review text–Based Rating prediction system Using Large Lange Model Finetuning”**, 19th Asia Pacific International Conference on Information Science and Technology, June. 2024 (Short Paper, [Poster](https://drive.google.com/file/d/1YLVw6sgjBlaHF4Yyy-IJ7M1FGBALVMTF/view?usp=share_link))
 
-- **S Kang**, J Kim, N Kim, **“Research on Memory-efficient Approach to Sleep Quality Estimation for Edge Devices”**, The 15th International Conference on ICT Convergence, Oct. 2024 ([Poster](https://drive.google.com/file/d/1B182B7Tv0vpCtG4L2q94V1-W6TtkZFuw/view?usp=sharing))
+- **S Kang**, J Kim, N Kim, **“Research on Memory-efficient Approach to Sleep Quality Estimation for Edge Devices”**, The 15th International Conference on ICT Convergence, Oct. 2024 (Full Paper, [Poster](https://drive.google.com/file/d/1B182B7Tv0vpCtG4L2q94V1-W6TtkZFuw/view?usp=sharing))
 
-- **S Kang**, D Lee, S Han, S Lim, N Kim , **“Research on Building K-Contents Specialized Text2Image Pipeline”**, The 27th International Conference on Advanced Communication Technology, Feb. 2025 (Oral)
+- **S Kang**, D Lee, S Han, S Lim, N Kim , **“Research on Building K-Contents Specialized Text2Image Pipeline”**, The 27th International Conference on Advanced Communication Technology, Feb. 2025 (Full Paper, Oral)
 
 ### International journals
 
@@ -80,17 +80,17 @@ Research Intern, Jul 2024 ~ Aug 2024
 ## 👨🏻‍💻 Projects & Competitions
 
 ### Projects
-1. **Raspberry Pi handwriting image classification**(*Personal Project, Jul 2023 - Aug 2023*) ([github](https://github.com/user00144/pr1-hand_writing)) with 📄
-2. **Fake News Detection with Language Models**(*Personal Project, Jan 2024 - Feb 2024*) ([github](https://github.com/user00144/fake_news_detection)) with 📄
-3. **BELIEVE : Vision Based Edge Intelligence System for Safety Management**(*Team Project, Mar 2024 - Jun 2024*) ([github](https://github.com/user00144/basic_capstone_BELIEVE_ai_server)) with 📄, 🏆
-4. **Review Text Based Rating prediction with Large Language Model**(*Personal Project, Mar 2024 - May 2024*) ([github](https://github.com/user00144/rating_prediction_LLM)) with 📄
-5. **K-Contents Specialized Text2Img Pipeline**(*Team Project, Jul 2024 - Aug 2024*) ([github](https://github.com/user00144/kor_sd)) with 🔍,📄 
+1. **Raspberry Pi handwriting image classification** (*Personal Project, Jul 2023 - Aug 2023*) ([git](https://github.com/user00144/pr1-hand_writing)) 📄
+2. **Fake News Detection with Language Models** (*Personal Project, Jan 2024 - Feb 2024*) ([git](https://github.com/user00144/fake_news_detection)) 📄
+3. **BELIEVE : Vision Based Edge Intelligence System for Safety Management** (*Team Project, Mar 2024 - Jun 2024*) ([git](https://github.com/user00144/basic_capstone_BELIEVE_ai_server)) 📄, 🏆
+4. **Review Text Based Rating prediction with Large Language Model** (*Personal Project, Mar 2024 - May 2024*) ([git](https://github.com/user00144/rating_prediction_LLM)) 📄
+5. **K-Contents Specialized Text2Img Pipeline** (*Team Project, Jul 2024 - Aug 2024*) ([git](https://github.com/user00144/kor_sd)) 🔍,📄 
 
 
 ### Competitions
-1. **DACON Seoul Average Temperature Forecasting Competition**(*Dec 2023 - Jan 2024*) ([github/dacon_seoul_hack](https://github.com/user00144/dacon_seoul_hack)) - Results top 4%
-2. **Human Understanding AI Paper Challenge 2024**(*May 2024 - Jul 2024*) ([github/2024_ETRI_competition](https://github.com/user00144/2024_ETRI_competition)) - Results 
-3. **Seoul-si Artificial Intelligence Internet of Things Hackerton**(*Sep 2024 - Aug 2024*) ([github/Seoul_AIoT_hack](https://github.com/user00144/seoul_AIoT_hack)) - Advance to finals
+1. **DACON Seoul Average Temperature Forecasting Competition** (*Dec 2023 - Jan 2024*) ([git](https://github.com/user00144/dacon_seoul_hack)) - Results top 3% (19th of 624)
+2. **Human Understanding AI Paper Challenge 2024** (*May 2024 - Jul 2024*) ([git](https://github.com/user00144/2024_ETRI_competition)) - Results 
+3. **Seoul-si Artificial Intelligence Internet of Things Hackerton** (*Sep 2024 - Aug 2024*) ([git](https://github.com/user00144/seoul_AIoT_hack)) - Advance to finals, no Prize
 
 
 
@@ -98,10 +98,10 @@ Research Intern, Jul 2024 ~ Aug 2024
 
 ## 💯 Teaching Experiences
 
-1. **2023 Gyonggichango Mentoring**(*with JAKorea, Jul 2023 - Aug 2023*) ([more](https://github.com/user00144/teachingexp_repo/tree/main/2023_Gyonggichango))
-2.  **SAP- Solve it together Mentoring**(*with JAKorea & SAP, Jul 2023 - Aug 2023*) ([more](https://github.com/user00144/teachingexp_repo/tree/main/SAP))
-3.   **Basic Tutoring : Stepping Stone Tutoring 24-1**(*with KGU, Mar 2024 - Jun 2024*) ([more](https://github.com/user00144/teachingexp_repo/tree/main/tutor_2024))
-4.   **Teaching Assistant : National center of excellience in software**(*with KGU, Sep 2024 - Dec 2024*)
+1. **2023 Gyonggichango Mentoring** (*with JAKorea, Jul 2023 - Aug 2023*) ([git](https://github.com/user00144/teachingexp_repo/tree/main/2023_Gyonggichango))
+2.  **SAP- Solve it together Mentoring** (*with JAKorea & SAP, Jul 2023 - Aug 2023*) ([git](https://github.com/user00144/teachingexp_repo/tree/main/SAP))
+3.   **Basic Tutoring : Stepping Stone Tutoring 24-1** (*with KGU, Mar 2024 - Jun 2024*) ([git](https://github.com/user00144/teachingexp_repo/tree/main/tutor_2024))
+4.   **Teaching Assistant : National center of excellience in software** (*with KGU, Sep 2024 - Dec 2024*)
 
 
 ---
@@ -110,15 +110,15 @@ Research Intern, Jul 2024 ~ Aug 2024
 
 ### Scholarships
 
-- **Scholarship for Academic Excelience** (2nd semester, 2020), Kyonggi University
-- **Scholarship for Academic Excelience** (2nd semester, 2023), Kyonggi University
-- **Scholarship for Academic Excelience** (1st semester, 2024), Kyonggi University
-- **Scholarship for Academic Excelience** (2nd semester, 2024), Kyonggi University
+- **Scholarship for Academic Excelience** (Sep 2020), Kyonggi University
+- **Scholarship for Academic Excelience** (Sep 2023), Kyonggi University
+- **Scholarship for Academic Excelience** (Mar 2024), Kyonggi University
+- **Scholarship for Academic Excelience** (Sep 2024), Kyonggi University
 
 ### Awards
 
-- **Best Paper Award** in Korean Institute of Information Technology Summer Conference (May. 2024) ([C@](https://drive.google.com/file/d/1NDDaFbSefAQRaKR0wxwmUDGoHEc608_h/view?usp=share_link))
-- **Excellence Award** in Basic Capstone Design Competition, Kyonggi University (Jun. 2024) ([C@](https://drive.google.com/file/d/1GpCDSyqRyuQ1e7MTC0a2cs0fOk8CWM4X/view?usp=share_link))
+- **Best Paper Award** in Korean Institute of Information Technology Summer Conference (May. 2024) ([cert](https://drive.google.com/file/d/1NDDaFbSefAQRaKR0wxwmUDGoHEc608_h/view?usp=share_link))
+- **Excellence Award** in Basic Capstone Design Competition, Kyonggi University (Jun. 2024) ([cert](https://drive.google.com/file/d/1GpCDSyqRyuQ1e7MTC0a2cs0fOk8CWM4X/view?usp=share_link))
 
 ### Certifications
 
