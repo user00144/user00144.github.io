@@ -8,7 +8,7 @@ Hello, my name is Seungeun Kang. I'm born in 2001, 24-years old. I'm currently u
 
 ### Research Interest
 
-My dream is to be *“a person who creates useful things for everyday life”*. I believe that **“Edge Intelligence”** and **“AI with Internet of Things”** are the closest to this dream. As an undergraduate, my goal was to *“experience as many fields as possible”*, but in my master's and PhD research, I want to deeply understand the above two fields. Especially in the first field, I am interested in networking, distributed processing, and optimizing on-device inference in the field of “Edge Intelligence”. Secondly, in the field of AI with Internet of Things, I am interested in R&D activities such as healthcare and HCI (Human-Computer-Interaction).
+My dream is to be *“a person who creates useful things for everyday life”*. I believe that **“Edge Intelligence”** and **“AI with Internet of Things”** are the closest to this dream. As an undergraduate, my goal was to *“experience as many fields as possible”*, but in my master's and PhD research, I want to deeply understand the above two fields. Especially in the first field, *I am interested in networking, distributed processing, and optimizing on-device inference in the field of “Edge Intelligence”. Secondly, in the field of AI with Internet of Things, I am interested in R&D activities such as healthcare and HCI (Human-Computer-Interaction).*
 
 
 ### Contact me
@@ -59,7 +59,7 @@ Research Intern, Jul 2024 ~ Aug 2024
 
 - **S Kang**, J Kim, N Kim, **“Research on Memory-efficient Approach to Sleep Quality Estimation for Edge Devices”**, The 15th International Conference on ICT Convergence, Oct. 2024 ([Poster](https://drive.google.com/file/d/1B182B7Tv0vpCtG4L2q94V1-W6TtkZFuw/view?usp=sharing))
 
-- **S Kang**, D Lee, S Han, S Lim, N Kim , **“Research on Building K-Contents Specialized Text2Image Pipeline”**, The 27th International Conference on Advanced Communication Technology, Feb. 2025
+- **S Kang**, D Lee, S Han, S Lim, N Kim , **“Research on Building K-Contents Specialized Text2Image Pipeline”**, The 27th International Conference on Advanced Communication Technology, Feb. 2025 (Oral)
 
 ### International journals
 
@@ -77,15 +77,22 @@ Research Intern, Jul 2024 ~ Aug 2024
 
 ---
 
-## 👨🏻‍💻 Projects
+## 👨🏻‍💻 Projects & Competitions
 
+### Projects
 1. **Raspberry Pi handwriting image classification**(*Personal Project, Jul 2023 - Aug 2023*) ([github/pr1-hand_writing](https://github.com/user00144/pr1-hand_writing))
-2. **DACON Seoul Average Temperature Forecasting Competition**(*Competition, Dec 2023 - Jan 2024*) ([github/dacon_seoul_hack](https://github.com/user00144/dacon_seoul_hack))
-3. **Fake News Detection with Language Models**(*Personal Project, Jan 2024 - Feb 2024*) ([github/fake_news_detection](https://github.com/user00144/fake_news_detection))
-4. **BELIEVE : Vision Based Edge Intelligence System for Safety Management**(*Team Project, Mar 2024 - Jun 2024*) ([github/BELIEVE](https://github.com/user00144/basic_capstone_BELIEVE_ai_server))
-5. **Review Text Based Rating prediction with Large Language Model**(*Personal Project, Mar 2024 - May 2024*) ([github/rating_prediction_LLM](https://github.com/user00144/rating_prediction_LLM))
-6. **Human Understanding AI Paper Challenge 2024**(*Competition, May 2024 - Jul 2024*) ([github/2024_ETRI_competition](https://github.com/user00144/2024_ETRI_competition))
-7. **K-Contents Specialized Text2Img Pipeline**(*Team Project, Jul 2024 - Aug 2024*) ([github/kor_sd](https://github.com/user00144/kor_sd))
+2. **Fake News Detection with Language Models**(*Personal Project, Jan 2024 - Feb 2024*) ([github/fake_news_detection](https://github.com/user00144/fake_news_detection))
+3. **BELIEVE : Vision Based Edge Intelligence System for Safety Management**(*Team Project, Mar 2024 - Jun 2024*) ([github/BELIEVE](https://github.com/user00144/basic_capstone_BELIEVE_ai_server))
+4. **Review Text Based Rating prediction with Large Language Model**(*Personal Project, Mar 2024 - May 2024*) ([github/rating_prediction_LLM](https://github.com/user00144/rating_prediction_LLM))
+5. **K-Contents Specialized Text2Img Pipeline**(*Team Project, Jul 2024 - Aug 2024*) ([github/kor_sd](https://github.com/user00144/kor_sd))
+
+
+### Competitions
+1. **DACON Seoul Average Temperature Forecasting Competition**(*Dec 2023 - Jan 2024*) ([github/dacon_seoul_hack](https://github.com/user00144/dacon_seoul_hack)) - Results top 4%
+2. **Human Understanding AI Paper Challenge 2024**(*May 2024 - Jul 2024*) ([github/2024_ETRI_competition](https://github.com/user00144/2024_ETRI_competition)) - Results 
+3. **Seoul-si Artificial Intelligence Internet of Things Hackerton**(*Sep 2024 - Aug 2024*) ([github/Seoul_AIoT_hack](https://github.com/user00144/seoul_AIoT_hack)) - Advance to finals
+
+
 
 ---
 
@@ -94,6 +101,7 @@ Research Intern, Jul 2024 ~ Aug 2024
 1. **2023 Gyonggichango Mentoring**(*with JAKorea, Jul 2023 - Aug 2023*) ([more](https://github.com/user00144/teachingexp_repo/tree/main/2023_Gyonggichango))
 2.  **SAP- Solve it together Mentoring**(*with JAKorea & SAP, Jul 2023 - Aug 2023*) ([more](https://github.com/user00144/teachingexp_repo/tree/main/SAP))
 3.   **Basic Tutoring : Stepping Stone Tutoring 24-1**(*with KGU, Mar 2024 - Jun 2024*) ([more](https://github.com/user00144/teachingexp_repo/tree/main/tutor_2024))
+4.   **Teaching Assistant : National center of excellience in software**(*with KGU, Sep 2024 - Dec 2024*)
 
 
 ---
@@ -139,6 +147,11 @@ Research Intern, Jul 2024 ~ Aug 2024
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### ETC
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ---
