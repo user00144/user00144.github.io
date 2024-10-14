@@ -80,11 +80,11 @@ Research Intern, Jul 2024 ~ Aug 2024
 ## 👨🏻‍💻 Projects & Competitions
 
 ### Projects
-1. **Raspberry Pi handwriting image classification**(*Personal Project, Jul 2023 - Aug 2023*) ([github/pr1-hand_writing](https://github.com/user00144/pr1-hand_writing))
-2. **Fake News Detection with Language Models**(*Personal Project, Jan 2024 - Feb 2024*) ([github/fake_news_detection](https://github.com/user00144/fake_news_detection))
-3. **BELIEVE : Vision Based Edge Intelligence System for Safety Management**(*Team Project, Mar 2024 - Jun 2024*) ([github/BELIEVE](https://github.com/user00144/basic_capstone_BELIEVE_ai_server))
-4. **Review Text Based Rating prediction with Large Language Model**(*Personal Project, Mar 2024 - May 2024*) ([github/rating_prediction_LLM](https://github.com/user00144/rating_prediction_LLM))
-5. **K-Contents Specialized Text2Img Pipeline**(*Team Project, Jul 2024 - Aug 2024*) ([github/kor_sd](https://github.com/user00144/kor_sd))
+1. **Raspberry Pi handwriting image classification**(*Personal Project, Jul 2023 - Aug 2023*) ([github](https://github.com/user00144/pr1-hand_writing)) with 📄
+2. **Fake News Detection with Language Models**(*Personal Project, Jan 2024 - Feb 2024*) ([github](https://github.com/user00144/fake_news_detection)) with 📄
+3. **BELIEVE : Vision Based Edge Intelligence System for Safety Management**(*Team Project, Mar 2024 - Jun 2024*) ([github](https://github.com/user00144/basic_capstone_BELIEVE_ai_server)) with 📄, 🏆
+4. **Review Text Based Rating prediction with Large Language Model**(*Personal Project, Mar 2024 - May 2024*) ([github](https://github.com/user00144/rating_prediction_LLM)) with 📄
+5. **K-Contents Specialized Text2Img Pipeline**(*Team Project, Jul 2024 - Aug 2024*) ([github](https://github.com/user00144/kor_sd)) with 🔍,📄 
 
 
 ### Competitions
@@ -117,8 +117,8 @@ Research Intern, Jul 2024 ~ Aug 2024
 
 ### Awards
 
-- **Best Paper Award** in Korean Institute of Information Technology Summer Conference (May. 2024)
-- **Excellence Award** in Basic Capstone Design Competition, Kyonggi University (Jun. 2024)
+- **Best Paper Award** in Korean Institute of Information Technology Summer Conference (May. 2024) ([C@](https://drive.google.com/file/d/1NDDaFbSefAQRaKR0wxwmUDGoHEc608_h/view?usp=share_link))
+- **Excellence Award** in Basic Capstone Design Competition, Kyonggi University (Jun. 2024) ([C@](https://drive.google.com/file/d/1GpCDSyqRyuQ1e7MTC0a2cs0fOk8CWM4X/view?usp=share_link))
 
 ### Certifications
 
