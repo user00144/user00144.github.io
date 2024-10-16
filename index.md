@@ -89,7 +89,7 @@ Research Intern, Jul 2024 ~ Aug 2024
 
 ### Competitions
 1. **DACON Seoul Average Temperature Forecasting Competition** (*Dec 2023 - Jan 2024*) ([git](https://github.com/user00144/dacon_seoul_hack)) - Results top 3% (19th of 624)
-2. **Human Understanding AI Paper Challenge 2024** (*May 2024 - Jul 2024*) ([git](https://github.com/user00144/2024_ETRI_competition)) - Results 
+2. **Human Understanding AI Paper Challenge 2024** (*May 2024 - Jul 2024*) ([git](https://github.com/user00144/2024_ETRI_competition)) - Results 15th of 40 teams
 3. **Seoul-si Artificial Intelligence Internet of Things Hackerton** (*Sep 2024 - Aug 2024*) ([git](https://github.com/user00144/seoul_AIoT_hack)) - Advance to finals, no Prize
 
 
