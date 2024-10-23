@@ -46,7 +46,7 @@ Trainee , Dec 2023 ~ Nov 2024
 - Learning cloud(AWS, GCP), Socket programming, Basis of AI
 
 > ### Lotte Innovate AI Tech Team : LOTTE
-Research Intern, Jul 2024 ~ Aug 2024 , [[cert](https://drive.google.com/file/d/132eycpiHTdGXByOB5v8aXGL4epZPbzsl/view?usp=sharing)
+Research Intern, Jul 2024 ~ Aug 2024 , [[cert](https://drive.google.com/file/d/132eycpiHTdGXByOB5v8aXGL4epZPbzsl/view?usp=sharing)]
 - Experience of working on **R&D internship** about Text2Image Generative Model.
 - Publication at international conference, ICACT 2025 (Feb, 2025).
 
