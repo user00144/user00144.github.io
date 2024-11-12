@@ -8,8 +8,12 @@ Hello, my name is Seungeun Kang. I'm born in 2001, 24-years old. I'm currently u
 
 ### Research Interest
 
-My dream is to be *“a person who creates useful things for everyday life”*. I believe that **“Edge Intelligence”** and **“AI with Internet of Things”** are the closest to this dream. As an undergraduate, my goal was to *“experience as many fields as possible”*, but in my master's and PhD research, I want to deeply understand the above two fields. Especially in the first field, I am interested in networking, distributed processing, and optimizing on-device inference in the field of **“Edge Intelligence”**. Secondly, in the field of **AI with Internet of Things,** I am interested in R&D activities such as **healthcare and HCI(Human-Computer-Interaction).**
+My dream is to be **“a person who creates useful things for everyday life”.**
+I believe that **“Human Computer Interaction with LLMs & Mobile Computing”** is the closest thing to this dream.
 
+I really enjoy the process of *1) propose novel solutions, 2) implementing services, and 3) organize and write paper about them to solve real-world problems.*
+
+I would like to deeply study HCI/HRI in my master's and doctoral research. In particular, I am interested in using technology to *solve real-world problems* and **to achieve "values" such as "human happiness".** 
 
 ### Contact me
 
