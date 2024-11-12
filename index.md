@@ -92,7 +92,7 @@ Undergraduate Researcher , Jul 2023 ~ Present
 - **Fake News Detection with Language Models** (*Personal Project, Jan 2024 - Feb 2024*) [[git](https://github.com/user00144/fake_news_detection)] 📄
 
 ### Competitions
-- **2024 Capstone Design and AI Hackerton Competition** (*Oct 2024*) [[git]()] - Results 2nd Prize 🏆
+- **2024 Capstone Design and AI Hackerton Competition** (*Oct 2024*) [[git](https://github.com/user00144/deeptact)] - Results 2nd Prize 🏆
 - **Seoul-si Artificial Intelligence Internet of Things Hackerton** (*Sep 2024 - Aug 2024*) [[git](https://github.com/user00144/seoul_AIoT_hack)] - Advance to finals, no Prize
 - **Human Understanding AI Paper Challenge 2024** (*May 2024 - Jul 2024*) [[git](https://github.com/user00144/2024_ETRI_competition)] - Results 15th of 40 teams
 - **DACON Seoul Average Temperature Forecasting Competition** (*Dec 2023 - Jan 2024*) [[git](https://github.com/user00144/dacon_seoul_hack)] - Results top 3% (19th of 624)
@@ -123,7 +123,7 @@ Undergraduate Researcher , Jul 2023 ~ Present
 
 ### Awards
 
-- **2nd Award** in 2024 Capstone Design and AI Hackerton Competition, Korean Assocation of Computer Education (Oct. 2024) [[cert]()]
+- **2nd Award** in 2024 Capstone Design and AI Hackerton Competition, Korean Assocation of Computer Education (Oct. 2024) [[cert](https://drive.google.com/file/d/1QDDTIJumpcae6mbz3AbmTQXr3sLtHPuI/view?usp=share_link)]
 - **Excellence Award** in Basic Capstone Design Competition, Kyonggi University (Jun. 2024) [[cert](https://drive.google.com/file/d/1GpCDSyqRyuQ1e7MTC0a2cs0fOk8CWM4X/view?usp=share_link)]
 - **Best Paper Award** in Korean Institute of Information Technology Summer Conference (May. 2024) [[cert](https://drive.google.com/file/d/1NDDaFbSefAQRaKR0wxwmUDGoHEc608_h/view?usp=share_link)]
 
