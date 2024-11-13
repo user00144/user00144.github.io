@@ -74,7 +74,7 @@ Undergraduate Researcher , Jul 2023 ~ Present
 
 ### Domestic Conferences
 
-- 🏆 **S Kang**, E Park, G Park, J Park, K Park, Y Moon, N Kim , **"BELIEVE : Vision-Based Edge Intelligence System for Safety Management on Industrial Environment"**, Korean Institute of Information Technology Summer Conference, May. 2024 [[Poster](https://drive.google.com/file/d/1HCnWueAUo6fVNVpQvq6ZnHvBQBef_QdA/view?usp=sharing)]
+- 🏆 **S Kang**, E Park, G Park, J Park, K Park, Y Moon, N Kim , **"BELIEVE : Vision-Based Edge Intelligence System for Safety Management on Industrial Environment"**, Korean Institute of Information Technology Summer Conference, May. 2024 [[Poster](https://drive.google.com/file/d/1HCnWueAUo6fVNVpQvq6ZnHvBQBef_QdA/view?usp=sharing), [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825606)]
 
 - **S Kang** , N Kim , **"Using Raspberry Pi and MNIST Dataset A study on handwriting images classification in an on-device environment"** , Korean Society For Internet Information Spring Conference , Apr. 2024 [[Poster](https://drive.google.com/file/d/1BgcvG3kA7U0VI-KQzcHYQqIPO5ovPm3L/view?usp=drive_link)]
 
