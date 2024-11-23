@@ -45,7 +45,7 @@ Research Intern, Jul 2024 ~ Aug 2024 , [[cert](https://drive.google.com/file/d/1
 - Publication at international conference, ICACT 2025 (Feb, 2025).
 
 > ### K-Software Empowerment bootcamp
-Trainee , Dec 2023 ~ Nov 2024
+Trainee , Dec 2023 ~ Nov 2024 , [[cert](https://drive.google.com/file/d/1FtNgMdNTGpfcQvrChKSklX2go0u1N4gg/view?usp=share_link)]
 - Learning cloud(AWS, GCP), Socket programming, Basis of AI
 
 > ### Smart IoT Lab : Kyonggi University
