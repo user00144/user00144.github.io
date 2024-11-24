@@ -58,7 +58,9 @@ Undergraduate Researcher , Jul 2023 ~ Present
 
 ## 📄 Publications
 
-### International Conferences
+### Conferences
+
+#### International
 
 - **S Kang**, D Lee, S Han, S Lim, N Kim , **“Research on Building K-Contents Specialized Text2Image Pipeline”**, The 27th International Conference on Advanced Communication Technology, Feb. 2025 [[Oral](https://drive.google.com/file/d/1_8JPe2APRXO1FrJSN4mwT1UjvliUPju4/view?usp=sharing)]
 
@@ -66,13 +68,7 @@ Undergraduate Researcher , Jul 2023 ~ Present
 
 - **S Kang**, N Kim, **“A Study on User Review text–Based Rating prediction system Using Large Lange Model Finetuning”**, 19th Asia Pacific International Conference on Information Science and Technology, June. 2024 [[Poster](https://drive.google.com/file/d/1YLVw6sgjBlaHF4Yyy-IJ7M1FGBALVMTF/view?usp=share_link)]
 
-
-
-### International journals
-
-.
-
-### Domestic Conferences
+#### Domestic
 
 - 🏆 **S Kang**, E Park, G Park, J Park, K Park, Y Moon, N Kim , **"BELIEVE : Vision-Based Edge Intelligence System for Safety Management on Industrial Environment"**, Korean Institute of Information Technology Summer Conference, May. 2024 [[Poster](https://drive.google.com/file/d/1HCnWueAUo6fVNVpQvq6ZnHvBQBef_QdA/view?usp=sharing), [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825606)]
 
@@ -81,7 +77,8 @@ Undergraduate Researcher , Jul 2023 ~ Present
 - **S Kang** , N Kim , **"Using activation function and ko-BERT Research of Click-bait Detection"** , Korean Society For Internet Information Spring Conference , Apr. 2024 [[Poster](https://drive.google.com/file/d/115gUfmaNk2R9EhooOPKCI5HhTQLJC9ps/view?usp=drive_link)]
 
 
-### Domestic journals
+
+### Journals
 
 .
 
