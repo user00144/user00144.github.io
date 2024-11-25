@@ -124,7 +124,7 @@ Undergraduate Researcher , Jul 2023 ~ Present
 
 ### Awards
 
-- **2nd Award** in 2024 Capstone Design and AI Hackerton Competition, Korean Assocation of Computer Education (Oct. 2024) [[cert](https://drive.google.com/file/d/1QDDTIJumpcae6mbz3AbmTQXr3sLtHPuI/view?usp=share_link)]
+- **2nd Award** in 2024 Capstone Design and AI Hackerton Competition, Korean Assocation of Computer Education (Oct. 2024) [[cert](https://drive.google.com/file/d/1BOO_99Dtd_jiV4280dH8FQQM72KtVSuw/view?usp=share_link)] 
 - **Excellence Award** in Basic Capstone Design Competition, Kyonggi University (Jun. 2024) [[cert](https://drive.google.com/file/d/1GpCDSyqRyuQ1e7MTC0a2cs0fOk8CWM4X/view?usp=share_link)]
 - **Best Paper Award** in Korean Institute of Information Technology Summer Conference (May. 2024) [[cert](https://drive.google.com/file/d/1NDDaFbSefAQRaKR0wxwmUDGoHEc608_h/view?usp=share_link)]
 
