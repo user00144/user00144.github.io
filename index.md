@@ -39,6 +39,10 @@ I would like to deeply study HCI/HRI in my master's and doctoral research. In pa
 
 ## 🔍 Research Experiences
 
+> ### ETRI Social Robotics Lab
+Research Intern, Jan 2025 ~ Feb 2025
+- 
+
 > ### Lotte Innovate AI Tech Team : LOTTE
 Research Intern, Jul 2024 ~ Aug 2024 , [[cert](https://drive.google.com/file/d/132eycpiHTdGXByOB5v8aXGL4epZPbzsl/view?usp=sharing)]
 - Experience of working on **R&D internship** about Text2Image Generative Model.
