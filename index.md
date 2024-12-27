@@ -31,7 +31,7 @@ I would like to deeply study HCI/HRI in my master's and doctoral research. In pa
 
   Suwon, Republic of Korea (*Feb 2020 ~ Feb 2026, expected*)
 
-  Junior , Computer Engineering , **GPA(4.36 / 4.5)**  / in-major(4.38 / 4.5)
+  Junior , Computer Engineering , **GPA(4.38 / 4.5)**  / in-major(4.40 / 4.5)
 
   Thesis :  .
 
@@ -120,10 +120,12 @@ Undergraduate Researcher , Jul 2023 ~ Present
 
 ### Scholarships
 
+- **Scholarship for Academic Excelience** (Mar 2025), Kyonggi University
 - **Scholarship for Academic Excelience** (Sep 2024), Kyonggi University
 - **Scholarship for Academic Excelience** (Mar 2024), Kyonggi University
 - **Scholarship for Academic Excelience** (Sep 2023), Kyonggi University
 - **Scholarship for Academic Excelience** (Sep 2020), Kyonggi University
+
 
 
 ### Awards
