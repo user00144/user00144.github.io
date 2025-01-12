@@ -97,7 +97,7 @@ Undergraduate Researcher , Jul 2023 ~ Present
 - **Fake News Detection with Language Models** (*Personal Project, Jan 2024 - Feb 2024*) [[git](https://github.com/user00144/fake_news_detection)] 📄
 
 ### Competitions
-- **2024 Capstone Design and AI Hackerton Competition** (*Oct 2024*) [[git](https://github.com/user00144/deeptact)] - Results 2nd Prize 🏆
+- **2024 Capstone Design and AI Hackerton Competition** (*Oct 2024*) [[git](https://github.com/user00144/deeptector)] - Results 2nd Prize 🏆
 - **Seoul-si Artificial Intelligence Internet of Things Hackerton** (*Sep 2024 - Aug 2024*) [[git](https://github.com/user00144/seoul_AIoT_hack)] - Advance to finals, no Prize
 - **Human Understanding AI Paper Challenge 2024** (*May 2024 - Jul 2024*) [[git](https://github.com/user00144/2024_ETRI_competition)] - Results 15th of 40 teams
 - **DACON Seoul Average Temperature Forecasting Competition** (*Dec 2023 - Jan 2024*) [[git](https://github.com/user00144/dacon_seoul_hack)] - Results top 3% (19th of 624)
