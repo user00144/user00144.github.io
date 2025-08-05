@@ -1,13 +1,13 @@
 /* style.css */
 
 :root {
-    --primary-color: #748DAE;
-    --secondary-color: #748DAE;
-    --text-color: #333;
-    --background-color: #dde9fa;
+    --primary-color: #5D9CEC;
+    --secondary-color: #4A89DC;
+    --text-color: #3A414E;
+    --background-color: #F5F7FA;
     --container-bg: #fff;
-    --container-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
-    --border-color: #ffffff;
+    --container-shadow: 0 10px 30px rgba(0, 0, 0, 0.07);
+    --border-color: #E6E9ED;
 }
 
 body {
@@ -16,6 +16,10 @@ body {
     color: var(--text-color);
     line-height: 1.7;
     transition: background-color 0.3s, color 0.3s;
+}
+
+.mobile-header {
+    display: none;
 }
 
 .flex {
@@ -112,17 +116,7 @@ body {
     transition: margin-left 0.3s ease-in-out;
 }
 
-.mobile-menu-button {
-    display: none;
-    position: fixed;
-    top: 1rem;
-    left: 1rem;
-    z-index: 1001;
-    background: none;
-    border: none;
-    font-size: 1.5rem;
-    cursor: pointer;
-}
+
 
 /* General Layout and Spacing */
 .container {
@@ -137,8 +131,8 @@ body {
     padding-bottom: 4rem;
 }
 
-/* About Me Section */
-#about {
+/* Section Box */
+.section-box {
     background: var(--container-bg);
     border-radius: 1rem;
     padding: 4rem;
@@ -342,7 +336,7 @@ body {
 
 #modalTechnologies {
     font-size: 1rem;
-    font-style: italic;
+    font-weight: bold;
     color: var(--primary-color);
     margin-bottom: 1.5rem;
 }
@@ -360,9 +354,24 @@ body {
 
 /* Media Queries */
 @media (max-width: 768px) {
+    .mobile-header {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        padding: 1rem;
+        background-color: var(--container-bg);
+        box-shadow: var(--container-shadow);
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1001;
+    }
+
     .sidebar {
         transform: translateX(-100%);
         z-index: 1000;
+        padding-top: 5rem; /* Add padding to avoid content being hidden behind the header */
     }
 
     .sidebar.show {
@@ -372,10 +381,14 @@ body {
     .main-content {
         margin-left: 0;
         width: 100%;
+        padding-top: 5rem; /* Add padding to avoid content being hidden behind the header */
     }
 
     .mobile-menu-button {
         display: block;
+        position: static; /* Remove fixed positioning */
+        font-size: 1.5rem;
+        cursor: pointer;
     }
 
     .section-title {
