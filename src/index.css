@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Add your custom base styles here if needed */
+.nav-link {
+    @apply px-3 py-2 rounded-md text-sm font-medium text-slate-700 hover:bg-slate-100 hover:text-slate-900;
+}
+
+.nav-link.active {
+    @apply bg-slate-100 text-slate-900;
+}
