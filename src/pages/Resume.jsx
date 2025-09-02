@@ -4,6 +4,7 @@ import purdueLogo from '../assets/imgs/logos/purdue-logo.webp'; // 예: Purdue U
 import snuLogo from '../assets/imgs/logos/snu-logo.png'; // 예: Seoul National University 로고
 import etriLogo from '../assets/imgs/logos/etri-logo.png'; // 예: ETRI 로고
 import lotteLogo from '../assets/imgs/logos/lotte-logo.jpg'; // 예: LOTTE INNOVATE 로고
+import unistLogo from '../assets/imgs/logos/unist-logo.png';
 
 
 // Reusable component for each section of the resume for consistency
@@ -71,6 +72,18 @@ function Resume() {
         {/* Experience Section */}
         <ResumeSection title="Experience">
           <ResumeItem 
+            title="Undergraduate Researcher @ Ubiquitous AI Lab"
+            subtitle="UNIST(Ulsan, Republic of Korea) | Sep. 2025 - "
+            // TODO: Replace with actual Purdue University logo URL
+            imageUrl={unistLogo}
+            details={
+              <ul className="list-disc list-inside space-y-1">
+                <li>Undergraduate Researcher at <a className="text-sky-600" href="https://sites.google.com/view/uailab/home">Ubiquitous AI Lab(UNIST)</a>.</li>
+                <li>Advisor : <a className="text-sky-600" href = "https://scholar.google.com/citations?user=bcmJw7AAAAAJ&hl=en">Prof. Tasik Gong</a></li>
+              </ul>
+            }
+          />
+          <ResumeItem 
             title="Visiting Scholar @ Purdue"
             subtitle="Purdue University(West Lafayette, IN, USA) | Jun. 2025 - Aug. 2025"
             // TODO: Replace with actual Purdue University logo URL
@@ -78,7 +91,7 @@ function Resume() {
             details={
               <ul className="list-disc list-inside space-y-1">
                 <li>KAI Purdue Summer Program, sponsored by Korean government(IITP).</li>
-                <li>Advisor : <a className="text-sky-600" href = "https://scholar.google.com/citations?user=SY_I6OMAAAAJ&hl=en">Prof. Eric T. Matson</a>, <a className="text-sky-600" href="https://polytechnic.purdue.edu/profile/ahsmith">Anthony H. Smith</a></li>
+                <li>Advisor : <a className="text-sky-600" href = "https://scholar.google.com/citations?user=SY_I6OMAAAAJ&hl=en">Prof. Eric T. Matson</a>, <a className="text-sky-600" href="https://polytechnic.purdue.edu/profile/ahsmith">Prof. Anthony H. Smith</a></li>
                 <li>Research topic : Mobile Computing, Sensor Based Deep Learning</li>
               </ul>
             }
