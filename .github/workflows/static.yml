@@ -46,6 +46,10 @@ jobs:
         with:
           # Upload dist folder
           path: './dist'
+      - name: Fix 404
+        run: cp ./build/index.html ./build/404.html
+        env:
+          CI: false
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
