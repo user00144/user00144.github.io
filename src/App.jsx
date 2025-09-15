@@ -10,7 +10,7 @@ import Resume from './pages/Resume';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
