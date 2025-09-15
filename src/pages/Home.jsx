@@ -70,7 +70,7 @@ function Home() {
             Undergraduate Student in Computer Science
           </p>
           <p className="mt-4 max-w-2xl text-slate-600">
-            <strong>Greetings! Welcome to my space where technology meets human experience.</strong> My research focuses on Human-Computer Interaction(HCI) with LLMs and Mobile Computing to create AI systems that adapt seamlessly to people’s lives. With experiences at Purdue University, Seoul National University, ETRI and LOTTE INNOVATE, I strive to turn innovative ideas into real-world solutions. Feel free to explore my CV and projects to learn more about this journey.
+            <strong>Greetings! Welcome to my space where technology meets human experience.</strong> My research focuses on Human-Computer Interaction(HCI) with LLMs and Mobile Computing to create AI systems that adapt seamlessly to people’s lives. With experiences at <a className="text-sky-600 underline" href="https://www.purdue.edu/">Purdue University</a>, <a className="text-sky-600 underline" href="https://convergence.snu.ac.kr/">Seoul National University</a>, <a className="text-sky-600 underline" href="https://www.etri.re.kr/intro.html">ETRI</a> and <a className="text-sky-600 underline" href="https://www.lotteinnovate.com/en">LOTTE INNOVATE</a>, I strive to turn innovative ideas into real-world solutions. Feel free to explore my CV and projects to learn more about this journey.
           </p>
         </div>
       </div>
