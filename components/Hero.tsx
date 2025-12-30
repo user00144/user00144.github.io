@@ -22,8 +22,7 @@ const Hero: React.FC = () => {
   const socialLinks = [
     { icon: Mail, label: 'Email', href: 'mailto:haun620@kyonggi.ac.kr' },
     { icon: Github, label: 'GitHub', href: 'https://github.com/user00144' },
-    { icon: Linkedin, label: 'LinkedIn', href: '#' },
-    { icon: Twitter, label: 'Twitter', href: '#' },
+    { icon: Linkedin, label: 'LinkedIn', href: 'https://www.linkedin.com/in/seungeun-kang-8556202b3/' },
   ];
 
   // Text highlighting logic

@@ -1,21 +1,14 @@
 
-import { NewsItem, Project, Publication, Photo, Experience, Education, Award, TeachingExperience } from './types';
+import { NewsItem, Project, Publication, Experience, Education, Award, TeachingExperience } from './types';
 
-export const HERO_STATEMENT = "Better than Best. Relentless Pursuit of Growth.";
+export const HERO_STATEMENT = "Better than Best";
 export const ABOUT_TEXT = `Greetings! I am an Undergraduate Researcher passionate about HCI, Sensor Fusion, and Mobile Computing. I explore how machines can better understand human context by fusing physical signals with digital intelligence, bridging the gap between raw data and meaningful user experiences.
 
 With research experiences at Purdue University, Seoul National University, ETRI, and LOTTE INNOVATE, I strive to turn innovative ideas into real-world solutions. I invite you to explore my CV and projects to learn more about this journey.`;
 
-export const PROFILE_IMAGE = "assets/images/profile.jpg"; // TODO: Replace this with your uploaded photo path (e.g. "/assets/profile.jpg")
+export const PROFILE_IMAGE = "../assets/images/profile.jpg"; // TODO: Replace this with your uploaded photo path (e.g. "/assets/profile.jpg")
 
 export const NEWS_ITEMS: NewsItem[] = [
-    {
-    id: '2',
-    date: 'Dec 2025',
-    title: 'Paper Expected at IEEE Robotic Computing',
-    category: 'Paper',
-    description: 'Work on "Wildlife Detection via 40kHz Ultrasonic Signals" expected to be published.'
-  },
   {
     id: '1',
     date: 'Jun 2025',
@@ -27,17 +20,17 @@ export const NEWS_ITEMS: NewsItem[] = [
 ];
 
 export const PROJECTS: Project[] = [
-  {
-    id: 'p1',
-    title: 'Wildlife Detection System',
-    tagline: 'Ultrasonic signal analysis for ecological monitoring.',
-    tags: ['Deep Learning', 'Signal Processing', 'Robotics'],
-    description: 'A system designed to detect wildlife using 40kHz ultrasonic signals.',
-    problem: 'Visual detection of wildlife is often limited by lighting and occlusion.',
-    approach: 'Designed a dataset and evaluated Deep Learning models on ultrasonic audio data.',
-    outcome: 'Expected publication at IEEE International Conference on Robotic Computing and Communication 2025.',
-    image: 'https://picsum.photos/seed/wildlife/800/600'
-  },
+  // {
+  //   id: 'p1',
+  //   title: 'Wildlife Detection System',
+  //   tagline: 'Ultrasonic signal analysis for ecological monitoring.',
+  //   tags: ['Deep Learning', 'Signal Processing', 'Robotics'],
+  //   description: 'A system designed to detect wildlife using 40kHz ultrasonic signals.',
+  //   problem: 'Visual detection of wildlife is often limited by lighting and occlusion.',
+  //   approach: 'Designed a dataset and evaluated Deep Learning models on ultrasonic audio data.',
+  //   outcome: 'Expected publication at IEEE International Conference on Robotic Computing and Communication 2025.',
+  //   image: 'https://picsum.photos/seed/wildlife/800/600'
+  // },
 ];
 
 export const PUBLICATIONS: Publication[] = [
@@ -48,7 +41,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: 'IEEE Robotic Computing',
     year: 2025,
     type: 'International',
-    links: [{ label: 'Expected', url: '#' }]
+    links: []
   },
   {
     id: 'pub2',
@@ -57,7 +50,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: 'ICACT',
     year: 2025,
     type: 'International',
-    links: [{ label: 'Oral', url: '#' }]
+    links: [{ label: 'Code', url: 'https://github.com/user00144/kor_sd' }]
   },
   {
     id: 'pub3',
@@ -66,7 +59,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: 'ICTC',
     year: 2024,
     type: 'International',
-    links: [{ label: 'Poster', url: '#' }]
+    links: [{ label: 'Code', url: 'https://github.com/user00144/2024_ETRI_competition' }]
   },
   {
     id: 'pub4',
@@ -75,7 +68,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: 'APIC-IST',
     year: 2024,
     type: 'International',
-    links: [{ label: 'Poster', url: '#' }]
+    links: []
   },
   {
     id: 'dom1',
@@ -122,13 +115,6 @@ export const PUBLICATIONS: Publication[] = [
     type: 'Domestic',
     links: []
   }
-];
-
-export const PHOTOS: Photo[] = [
-  { id: 'ph1', url: 'https://picsum.photos/seed/purdue/800/800', location: 'West Lafayette, USA', year: '2025', aspectRatio: 'aspect-square' },
-  { id: 'ph2', url: 'https://picsum.photos/seed/snu/1200/800', location: 'Seoul, Korea', year: '2025', aspectRatio: 'aspect-video' },
-  { id: 'ph3', url: 'https://picsum.photos/seed/etri/800/1200', location: 'Daejeon, Korea', year: '2025', aspectRatio: 'aspect-[3/4]' },
-  { id: 'ph4', url: 'https://picsum.photos/seed/kgu/800/800', location: 'Suwon, Korea', year: '2024', aspectRatio: 'aspect-square' },
 ];
 
 export const EXPERIENCE: Experience[] = [
@@ -196,10 +182,6 @@ export const SKILLS = [
 
 export const AWARDS: Award[] = [
   { id: 'a1', title: 'Scholarship for Academic Excellence', organization: 'Kyonggi University', date: 'Sep 2020 - Sep 2025 (Multiple)', type: 'Scholarship' },
-  { id: 'a2', title: 'Third Prize in Advanced Capstone Design Competition', organization: 'Kyonggi University', date: 'Jun 2025', type: 'Award' },
-  { id: 'a3', title: 'Excellence Award in Khuthon 2025', organization: 'National center of excellence in software', date: 'May 2025', type: 'Award' },
-  { id: 'a4', title: 'Second Prize in SW Univ 2024 Capstone & AI Hackathon', organization: 'Korean Association of Computer Education', date: 'Oct 2024', type: 'Award' },
-  { id: 'a5', title: 'Best Paper Award', organization: 'KIIT Summer Conference', date: 'May 2024', type: 'Award' },
   { id: 'c1', title: 'Test Of Practical Competency in IT level 4 (722)', organization: 'IITP', date: 'May 2025', type: 'Certification' },
   { id: 'c2', title: 'Certified Software Test Specialist Foundation Level', organization: 'TTA', date: 'Mar 2023', type: 'Certification' }
 ];
