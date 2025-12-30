@@ -1,20 +1,14 @@
-name: Deploy to GitHub Pages
+name: Deploy Vite Site
 
 on:
   push:
-    branches: ["main"] # 메인 브랜치 이름에 맞춰 수정하세요.
+    branches: ["main"]
   workflow_dispatch:
 
-# GITHUB_TOKEN에 권한 부여
 permissions:
   contents: read
   pages: write
   id-token: write
-
-# 동시 실행 제한: 현재 진행 중인 배포가 있다면 중단하고 새 배포 시작
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
 
 jobs:
   build:
@@ -26,8 +20,8 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20 # 사용 중인 Node 버전으로 수정 가능
-          cache: 'npm'
+          node-version: 20
+          cache: 'npm' # 여기서 에러가 난다면 package-lock.json이 push되었는지 확인!
 
       - name: Install dependencies
         run: npm install
@@ -38,15 +32,14 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # 빌드 결과물이 저장되는 폴더명 (Vite는 'dist', CRA는 'build')
-          path: './dist'
+          path: './dist' # Vite의 기본 빌드 폴더는 dist입니다.
 
   deploy:
+    needs: build
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
