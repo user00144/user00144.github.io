@@ -6,7 +6,7 @@ export const ABOUT_TEXT = `Greetings! I am an Undergraduate Researcher passionat
 
 With research experiences at Purdue University, Seoul National University, ETRI, and LOTTE INNOVATE, I strive to turn innovative ideas into real-world solutions. I invite you to explore my CV and projects to learn more about this journey.`;
 
-export const PROFILE_IMAGE = "../assets/images/profile.jpg"; // TODO: Replace this with your uploaded photo path (e.g. "/assets/profile.jpg")
+export const PROFILE_IMAGE = "/assets/images/profile.jpg"; // TODO: Replace this with your uploaded photo path (e.g. "/assets/profile.jpg")
 
 export const NEWS_ITEMS: NewsItem[] = [
   {
