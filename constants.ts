@@ -10,12 +10,19 @@ export const PROFILE_IMAGE = "/assets/images/profile.jpg"; // TODO: Replace this
 
 export const NEWS_ITEMS: NewsItem[] = [
   {
-    id: '1',
+  id: '1',
+  date: 'Dec 2025',
+  title: 'Paper Presentation at IEEE RoboticCC',
+  category: 'Publication',
+  description: 'Presented the paper “Wildlife Detection via 40kHz Ultrasonic Signals: Dataset Design and Deep Learning Evaluation” at the IEEE RoboticCC Conference.'
+}
+  {
+    id: '2',
     date: 'Jun 2025',
     title: 'Visiting Scholar at Purdue University',
     category: 'Experience',
     description: 'Selected for the KAI Purdue Summer Program sponsored by IITP to research HCI and Mobile Computing.'
-  }
+  },
 
 ];
 
@@ -38,7 +45,7 @@ export const PUBLICATIONS: Publication[] = [
     id: 'pub1',
     title: 'Wildlife Detection via 40kHz Ultrasonic Signals : Dataset Design and Deep Learning Evaluation',
     authors: ['S Kang', 'H Kang', 'S Ahn', 'T Ahn', 'L Hiday', 'A Smith*'],
-    venue: 'IEEE Robotic Computing',
+    venue: 'IEEE RoboticCC',
     year: 2025,
     type: 'International',
     links: []
