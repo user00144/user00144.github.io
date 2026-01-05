@@ -15,15 +15,14 @@ export const NEWS_ITEMS: NewsItem[] = [
   title: 'Paper Presentation at IEEE RoboticCC',
   category: 'Publication',
   description: 'Presented the paper “Wildlife Detection via 40kHz Ultrasonic Signals: Dataset Design and Deep Learning Evaluation” at the IEEE RoboticCC Conference.'
-}
+},
   {
     id: '2',
     date: 'Jun 2025',
     title: 'Visiting Scholar at Purdue University',
     category: 'Experience',
     description: 'Selected for the KAI Purdue Summer Program sponsored by IITP to research HCI and Mobile Computing.'
-  },
-
+  }
 ];
 
 export const PROJECTS: Project[] = [
