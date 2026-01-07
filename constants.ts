@@ -127,7 +127,7 @@ export const EXPERIENCE: Experience[] = [
   {
     id: 'exp1',
     role: 'Visiting Scholar',
-    company: 'KAI Purdue Summer Program',
+    company: 'Purdue University (West Lafayette, USA)',
     period: 'Jun 2025 - Aug 2025',
     description: [
       'Conducted research at Purdue University, sponsored by IITP.',
@@ -137,7 +137,7 @@ export const EXPERIENCE: Experience[] = [
   {
     id: 'exp2',
     role: 'Undergraduate Researcher',
-    company: 'SNU Cognitive Computing Lab',
+    company: 'SNU Cognitive Computing Lab (Seoul, Republic of Korea)',
     period: 'Mar 2025 - May 2025',
     description: [
       'Researched HCI, QA models, and Multimodal Emotion Recognition at Seoul National University.'
@@ -146,7 +146,7 @@ export const EXPERIENCE: Experience[] = [
   {
     id: 'exp3',
     role: 'Intern',
-    company: 'ETRI Social Robotics Lab',
+    company: 'ETRI Social Robotics Lab (Daejeon, Republic of Korea)',
     period: 'Jan 2025 - Feb 2025',
     description: [
       'Worked on HCI, Image De-Identification, and Vision Language Models at Electronics and Telecommunications Research Institute.'
@@ -155,7 +155,7 @@ export const EXPERIENCE: Experience[] = [
   {
     id: 'exp4',
     role: 'Intern',
-    company: 'LOTTE INNOVATE Tech AI. Team',
+    company: 'LOTTE INNOVATE Tech AI. Team (Seoul, Republic of Korea)',
     period: 'Jul 2024 - Aug 2024',
     description: [
       'Developed pipelines for Text to Image Generation and utilized CLIP models.'
@@ -164,7 +164,7 @@ export const EXPERIENCE: Experience[] = [
   {
     id: 'exp5',
     role: 'Undergraduate Researcher',
-    company: 'KGU Smart IoT Lab',
+    company: 'KGU Smart IoT Lab (Suwon, Republic of Korea)',
     period: 'Jul 2023 - Dec 2024',
     description: [
       'Focused on Mobile Computing and Large Language Models at Kyonggi University.'
@@ -187,7 +187,7 @@ export const SKILLS = [
 ];
 
 export const AWARDS: Award[] = [
-  { id: 'a1', title: 'Scholarship for Academic Excellence', organization: 'Kyonggi University', date: 'Sep 2020 - Sep 2025 (Multiple)', type: 'Scholarship' },
+  { id: 'a1', title: 'Scholarship for Academic Excellence (6 semester)', organization: 'Kyonggi University', date: 'Sep 2020 - Sep 2025', type: 'Scholarship' },
   { id: 'c1', title: 'Test Of Practical Competency in IT level 4 (722)', organization: 'IITP', date: 'May 2025', type: 'Certification' },
   { id: 'c2', title: 'Certified Software Test Specialist Foundation Level', organization: 'TTA', date: 'Mar 2023', type: 'Certification' }
 ];
