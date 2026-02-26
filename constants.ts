@@ -10,12 +10,12 @@ export const PROFILE_IMAGE = "/assets/images/profile.jpg"; // TODO: Replace this
 
 export const NEWS_ITEMS: NewsItem[] = [
   {
-  id: '1',
-  date: 'Dec 2025',
-  title: 'Paper Presentation at IEEE RoboticCC',
-  category: 'Publication',
-  description: 'Presented the paper “Wildlife Detection via 40kHz Ultrasonic Signals: Dataset Design and Deep Learning Evaluation” at the IEEE RoboticCC Conference.'
-},
+    id: '1',
+    date: 'Dec 2025',
+    title: 'Paper Presentation at IEEE RoboticCC',
+    category: 'Publication',
+    description: 'Presented the paper “Wildlife Detection via 40kHz Ultrasonic Signals: Dataset Design and Deep Learning Evaluation” at the IEEE RoboticCC Conference.'
+  },
   {
     id: '2',
     date: 'Jun 2025',
@@ -124,11 +124,13 @@ export const PUBLICATIONS: Publication[] = [
 ];
 
 export const EXPERIENCE: Experience[] = [
+
   {
     id: 'exp1',
     role: 'Visiting Scholar',
     company: 'Purdue University (West Lafayette, USA)',
     period: 'Jun 2025 - Aug 2025',
+    logo: '/assets/images/purdue_logo.png',
     description: [
       'Conducted research at Purdue University, sponsored by IITP.',
       'Focused on HCI, Mobile Computing, and Sensor-Based Deep Learning.'
@@ -139,6 +141,7 @@ export const EXPERIENCE: Experience[] = [
     role: 'Undergraduate Researcher',
     company: 'SNU Cognitive Computing Lab (Seoul, Republic of Korea)',
     period: 'Mar 2025 - May 2025',
+    logo: '/assets/images/snu_logo.png',
     description: [
       'Researched HCI, QA models, and Multimodal Emotion Recognition at Seoul National University.'
     ]
@@ -148,6 +151,7 @@ export const EXPERIENCE: Experience[] = [
     role: 'Intern',
     company: 'ETRI Social Robotics Lab (Daejeon, Republic of Korea)',
     period: 'Jan 2025 - Feb 2025',
+    logo: '/assets/images/etri_logo.png',
     description: [
       'Worked on HCI, Image De-Identification, and Vision Language Models at Electronics and Telecommunications Research Institute.'
     ]
@@ -157,6 +161,7 @@ export const EXPERIENCE: Experience[] = [
     role: 'Intern',
     company: 'LOTTE INNOVATE Tech AI. Team (Seoul, Republic of Korea)',
     period: 'Jul 2024 - Aug 2024',
+    logo: '/assets/images/lotte_logo.webp',
     description: [
       'Developed pipelines for Text to Image Generation and utilized CLIP models.'
     ]
@@ -166,6 +171,7 @@ export const EXPERIENCE: Experience[] = [
     role: 'Undergraduate Researcher',
     company: 'KGU Smart IoT Lab (Suwon, Republic of Korea)',
     period: 'Jul 2023 - Dec 2024',
+    logo: '/assets/images/kgu_logo.png',
     description: [
       'Focused on Mobile Computing and Large Language Models at Kyonggi University.'
     ]
@@ -175,9 +181,9 @@ export const EXPERIENCE: Experience[] = [
 export const EDUCATION: Education[] = [
   {
     id: 'edu1',
-    degree: 'B.S. in AI Computer Science and Engineering',
+    degree: 'B.S. in Computer Engineering',
     school: 'Kyonggi University',
-    year: 'Feb 2020 - Mar 2026',
+    year: 'Mar 2020 - Feb 2026',
     details: 'GPA: 4.38 / 4.5 (Major: 4.40 / 4.5)'
   }
 ];

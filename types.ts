@@ -10,7 +10,7 @@ export interface NewsItem {
   id: string;
   date: string;
   title: string;
-  category: 'Paper' | 'Project' | 'Talk' | 'Award' | 'Experience';
+  category: 'Paper' | 'Project' | 'Talk' | 'Award' | 'Experience' | 'Publication';
   description: string;
 }
 
@@ -51,6 +51,7 @@ export interface Experience {
   role: string;
   company: string;
   period: string;
+  logo?: string;
   description: string[];
 }
 

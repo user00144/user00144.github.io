@@ -49,7 +49,7 @@ const Resume: React.FC = () => {
             <h3 className="text-sm font-mono text-neon-purple uppercase tracking-widest mb-6">Technical Skills</h3>
             <div className="flex flex-wrap gap-2">
               {SKILLS.map((skill, i) => (
-                <span 
+                <span
                   key={i}
                   className="px-3 py-1 bg-white/5 border border-white/10 rounded-full text-xs text-slate-300 hover:border-neon-cyan/50 hover:text-white transition-colors cursor-default"
                 >
@@ -59,8 +59,8 @@ const Resume: React.FC = () => {
             </div>
           </motion.div>
 
-           {/* Awards */}
-           <motion.div
+          {/* Awards */}
+          <motion.div
             initial={{ opacity: 0, x: -20 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
@@ -85,7 +85,7 @@ const Resume: React.FC = () => {
 
         {/* Right Column */}
         <div className="space-y-12">
-           {/* Experience */}
+          {/* Experience */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -95,11 +95,22 @@ const Resume: React.FC = () => {
             <div className="space-y-12">
               {EXPERIENCE.map((exp, index) => (
                 <div key={exp.id} className="group">
-                  <div className="flex flex-col md:flex-row md:justify-between md:items-baseline mb-2">
-                    <h4 className="text-xl font-serif font-bold text-white group-hover:text-neon-cyan transition-colors">{exp.role}</h4>
-                    <span className="font-mono text-xs text-slate-500">{exp.period}</span>
+                  <div className="flex gap-4 md:gap-6 mb-4">
+                    {exp.logo && (
+                      <div className="shrink-0 pt-1">
+                        <div className="w-12 h-12 md:w-14 md:h-14 bg-slate-200 border border-white/20 rounded-xl p-1.5 flex items-center justify-center transition-colors group-hover:border-neon-cyan/50">
+                          <img src={exp.logo} alt={`${exp.company} logo`} className="w-full h-full object-contain rounded-md" />
+                        </div>
+                      </div>
+                    )}
+                    <div className="flex-1">
+                      <div className="flex flex-col md:flex-row md:justify-between md:items-baseline mb-1">
+                        <h4 className="text-xl font-serif font-bold text-white group-hover:text-neon-cyan transition-colors">{exp.role}</h4>
+                        <span className="font-mono text-xs text-slate-500">{exp.period}</span>
+                      </div>
+                      <p className="text-neon-blue text-sm font-medium">{exp.company}</p>
+                    </div>
                   </div>
-                  <p className="text-neon-blue text-sm font-medium mb-4">{exp.company}</p>
                   <ul className="space-y-2">
                     {exp.description.map((desc, i) => (
                       <li key={i} className="text-slate-400 text-sm leading-relaxed flex gap-3">
