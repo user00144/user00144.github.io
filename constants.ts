@@ -125,7 +125,7 @@ export const PUBLICATIONS: Publication[] = [
 
 export const EXPERIENCE: Experience[] = [
   {
-    id: 'exp0',
+    id: 'exp1',
     role: 'Research Intern (Part-time, Remote)',
     company: 'DGIST IRS Lab (Daegu, Republic of Korea)',
     period: 'Mar 2026 -',
@@ -135,7 +135,7 @@ export const EXPERIENCE: Experience[] = [
     ]
   },
   {
-    id: 'exp1',
+    id: 'exp2',
     role: 'Visiting Scholar (Full-time, In-person)',
     company: 'Purdue University (West Lafayette, USA)',
     period: 'Jun 2025 - Aug 2025',
@@ -146,7 +146,7 @@ export const EXPERIENCE: Experience[] = [
     ]
   },
   {
-    id: 'exp2',
+    id: 'exp3',
     role: 'Undergraduate Researcher (Part-time, In-person)',
     company: 'SNU Cognitive Computing Lab (Seoul, Republic of Korea)',
     period: 'Mar 2025 - May 2025',
@@ -156,7 +156,7 @@ export const EXPERIENCE: Experience[] = [
     ]
   },
   {
-    id: 'exp3',
+    id: 'exp4',
     role: 'Intern (Full-time, In-person)',
     company: 'ETRI Social Robotics Lab (Daejeon, Republic of Korea)',
     period: 'Jan 2025 - Feb 2025',
@@ -166,7 +166,7 @@ export const EXPERIENCE: Experience[] = [
     ]
   },
   {
-    id: 'exp4',
+    id: 'exp5',
     role: 'Intern (Full-time, In-person)',
     company: 'LOTTE INNOVATE Tech AI. Team (Seoul, Republic of Korea)',
     period: 'Jul 2024 - Aug 2024',
@@ -176,7 +176,7 @@ export const EXPERIENCE: Experience[] = [
     ]
   },
   {
-    id: 'exp5',
+    id: 'exp6',
     role: 'Undergraduate Researcher (Part-time, In-person)',
     company: 'KGU Smart IoT Lab (Suwon, Republic of Korea)',
     period: 'Jul 2023 - Dec 2024',
