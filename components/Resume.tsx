@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { EXPERIENCE, EDUCATION, SKILLS, AWARDS, TEACHING } from '../constants';
-import { Download, Award as AwardIcon, BookOpen } from 'lucide-react';
+import { Download, Award as AwardIcon, BookOpen, ExternalLink } from 'lucide-react';
 
 const Resume: React.FC = () => {
   return (
@@ -108,7 +108,20 @@ const Resume: React.FC = () => {
                         <h4 className="text-xl font-serif font-bold text-white group-hover:text-neon-cyan transition-colors">{exp.role}</h4>
                         <span className="font-mono text-xs text-slate-500">{exp.period}</span>
                       </div>
-                      <p className="text-neon-blue text-sm font-medium">{exp.company}</p>
+                      <p className="text-neon-blue text-sm font-medium mb-2">{exp.company}</p>
+                      {exp.customLink && (
+                        <div className="mb-3">
+                          <a
+                            href={exp.customLink.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex items-center gap-1.5 px-3 py-1 bg-white/5 border border-white/10 rounded-full text-xs text-slate-300 hover:border-neon-cyan/50 hover:text-neon-cyan transition-colors"
+                          >
+                            <ExternalLink size={12} />
+                            {exp.customLink.label}
+                          </a>
+                        </div>
+                      )}
                     </div>
                   </div>
                   <ul className="space-y-2">

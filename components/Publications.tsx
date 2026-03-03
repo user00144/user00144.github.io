@@ -20,11 +20,11 @@ const PublicationItem: React.FC<{ pub: Publication }> = ({ pub }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <motion.div 
+    <motion.div
       initial={false}
       className="border border-white/5 bg-white/[0.02] rounded-lg overflow-hidden hover:bg-white/[0.05] transition-colors"
     >
-      <div 
+      <div
         onClick={() => setIsOpen(!isOpen)}
         className="p-4 md:p-6 cursor-pointer flex justify-between items-start gap-4"
       >
@@ -43,12 +43,12 @@ const PublicationItem: React.FC<{ pub: Publication }> = ({ pub }) => {
             </span>
           </div>
         </div>
-        <ChevronDown 
-          className={clsx("text-slate-500 transition-transform duration-300 mt-1", isOpen && "rotate-180")} 
-          size={20} 
+        <ChevronDown
+          className={clsx("text-slate-500 transition-transform duration-300 mt-1", isOpen && "rotate-180")}
+          size={20}
         />
       </div>
-      
+
       <AnimatePresence>
         {isOpen && (
           <motion.div
@@ -60,17 +60,14 @@ const PublicationItem: React.FC<{ pub: Publication }> = ({ pub }) => {
             <div className="px-6 pb-6 pt-0 border-t border-white/5 mt-2">
               <div className="flex gap-3 pt-4">
                 {pub.links.map((link) => (
-                  <a 
-                    key={link.label} 
+                  <a
+                    key={link.label}
                     href={link.url}
                     className="flex items-center gap-2 text-xs font-bold text-white bg-slate-800 px-3 py-1.5 rounded hover:bg-slate-700 transition-colors"
                   >
                     <FileText size={14} /> {link.label}
                   </a>
                 ))}
-                <button className="text-xs text-slate-400 hover:text-white transition-colors ml-auto">
-                  Copy Citation
-                </button>
               </div>
             </div>
           </motion.div>

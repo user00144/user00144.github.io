@@ -47,7 +47,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: 'IEEE RoboticCC',
     year: 2025,
     type: 'International',
-    links: []
+    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org/document/11391822' }]
   },
   {
     id: 'pub2',
@@ -56,7 +56,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: 'ICACT',
     year: 2025,
     type: 'International',
-    links: [{ label: 'Code', url: 'https://github.com/user00144/kor_sd' }]
+    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org/document/10936662' }, { label: 'Code', url: 'https://github.com/user00144/kor_sd' }]
   },
   {
     id: 'pub3',
@@ -65,7 +65,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: 'ICTC',
     year: 2024,
     type: 'International',
-    links: [{ label: 'Code', url: 'https://github.com/user00144/2024_ETRI_competition' }]
+    links: [{ label: 'Paper', url: 'https://ieeexplore.ieee.org/document/10826637' }, { label: 'Code', url: 'https://github.com/user00144/2024_ETRI_competition' }]
   },
   {
     id: 'pub4',
@@ -74,7 +74,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: 'APIC-IST',
     year: 2024,
     type: 'International',
-    links: []
+    links: [{ label: 'Code', url: 'https://github.com/user00144/rating_prediction_LLM' }]
   },
   {
     id: 'dom1',
@@ -83,7 +83,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: 'KIIT Summer Conference',
     year: 2025,
     type: 'Domestic',
-    links: []
+    links: [{ label: 'Paper', url: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12288823' }]
   },
   {
     id: 'dom2',
@@ -92,7 +92,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: 'KIPS Annual Symposium',
     year: 2025,
     type: 'Domestic',
-    links: []
+    links: [{ label: 'Paper', url: 'https://doi.org/10.3745/PKIPS.y2025m05a.522' }, { label: 'Code', url: 'https://github.com/user00144/cclab_FinRQ' }]
   },
   {
     id: 'dom3',
@@ -101,7 +101,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: 'KIIT Summer Conference',
     year: 2024,
     type: 'Domestic',
-    links: []
+    links: [{ label: 'Paper', url: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825606' }, { label: 'Code', url: 'https://github.com/user00144/BELIEVE' }]
   },
   {
     id: 'dom4',
@@ -127,11 +127,11 @@ export const EXPERIENCE: Experience[] = [
   {
     id: 'exp1',
     role: 'Research Intern (Part-time, Remote)',
-    company: 'DGIST IRS Lab (Daegu, Republic of Korea)',
+    company: 'DGIST Intelligent Radio Sensing Lab (Daegu, Republic of Korea)',
     period: 'Mar 2026 -',
     logo: '/assets/images/dgist_logo.png',
     description: [
-      'Currently researching AI-based Radio Sensing at DGIST Intelligent Radio Sensing Lab.'
+      'Currently researching AI-based Radio Sensing at DGIST.'
     ]
   },
   {
@@ -140,6 +140,10 @@ export const EXPERIENCE: Experience[] = [
     company: 'Purdue University (West Lafayette, USA)',
     period: 'Jun 2025 - Aug 2025',
     logo: '/assets/images/purdue_logo.png',
+    customLink: {
+      label: 'Blog(Korean)',
+      url: 'https://kang-se.tistory.com/21'
+    },
     description: [
       'Conducted research at Purdue University, sponsored by IITP.',
       'Focused on HCI, Mobile Computing, and Sensor-Based Deep Learning.'

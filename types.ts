@@ -53,6 +53,10 @@ export interface Experience {
   period: string;
   logo?: string;
   description: string[];
+  customLink?: {
+    label: string;
+    url: string;
+  };
 }
 
 export interface Education {

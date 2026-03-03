@@ -13,18 +13,18 @@ interface NavigationProps {
 const navItems = [
   { id: SectionId.ABOUT, icon: User, label: 'About' },
   { id: SectionId.PROJECTS, icon: FolderGit2, label: 'Projects' },
-  { id: SectionId.PUBLICATIONS, icon: BookOpen, label: 'Papers' },
+  { id: SectionId.PUBLICATIONS, icon: BookOpen, label: 'Publications' },
   { id: SectionId.RESUME, icon: FileText, label: 'Resume' },
 ];
 
 const Navigation: React.FC<NavigationProps> = ({ activeSection, onNavigate }) => {
   return (
-    <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 px-4 w-full md:w-auto overflow-x-auto md:overflow-visible no-scrollbar">
-      <motion.div 
+    <div className="fixed bottom-6 left-0 w-full flex justify-center z-50 px-4 pointer-events-none">
+      <motion.div
         initial={{ y: 100, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ delay: 0.5, type: 'spring' }}
-        className="flex items-center gap-1 p-2 rounded-2xl bg-charcoal/80 backdrop-blur-xl border border-white/10 shadow-2xl min-w-fit mx-auto"
+        className="flex items-center gap-1 p-2 rounded-2xl bg-charcoal/80 backdrop-blur-xl border border-white/10 shadow-2xl pointer-events-auto max-w-full overflow-x-auto no-scrollbar md:overflow-visible"
       >
         {navItems.map((item) => {
           const isActive = activeSection === item.id;
@@ -38,17 +38,17 @@ const Navigation: React.FC<NavigationProps> = ({ activeSection, onNavigate }) =>
               )}
             >
               <item.icon size={20} strokeWidth={isActive ? 2.5 : 2} className="mb-1" />
-              
+
               <span className={clsx(
                 "text-[10px] font-medium transition-colors",
                 isActive ? "text-neon-cyan" : "text-slate-500 group-hover:text-slate-300"
               )}>
                 {item.label}
               </span>
-              
+
               {/* Active Indicator */}
               {isActive && (
-                <motion.div 
+                <motion.div
                   layoutId="nav-pill"
                   className="absolute inset-0 border border-neon-cyan/30 rounded-xl"
                   transition={{ type: "spring", stiffness: 300, damping: 30 }}
