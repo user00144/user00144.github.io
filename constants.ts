@@ -124,10 +124,19 @@ export const PUBLICATIONS: Publication[] = [
 ];
 
 export const EXPERIENCE: Experience[] = [
-
+  {
+    id: 'exp0',
+    role: 'Research Intern (Part-time, Remote)',
+    company: 'DGIST IRS Lab (Daegu, Republic of Korea)',
+    period: 'Mar 2026 -',
+    logo: '/assets/images/dgist_logo.png',
+    description: [
+      'Currently researching AI-based Radio Sensing at DGIST Intelligent Radio Sensing Lab.'
+    ]
+  },
   {
     id: 'exp1',
-    role: 'Visiting Scholar',
+    role: 'Visiting Scholar (Full-time, In-person)',
     company: 'Purdue University (West Lafayette, USA)',
     period: 'Jun 2025 - Aug 2025',
     logo: '/assets/images/purdue_logo.png',
@@ -138,7 +147,7 @@ export const EXPERIENCE: Experience[] = [
   },
   {
     id: 'exp2',
-    role: 'Undergraduate Researcher',
+    role: 'Undergraduate Researcher (Part-time, In-person)',
     company: 'SNU Cognitive Computing Lab (Seoul, Republic of Korea)',
     period: 'Mar 2025 - May 2025',
     logo: '/assets/images/snu_logo.png',
@@ -148,7 +157,7 @@ export const EXPERIENCE: Experience[] = [
   },
   {
     id: 'exp3',
-    role: 'Intern',
+    role: 'Intern (Full-time, In-person)',
     company: 'ETRI Social Robotics Lab (Daejeon, Republic of Korea)',
     period: 'Jan 2025 - Feb 2025',
     logo: '/assets/images/etri_logo.png',
@@ -158,7 +167,7 @@ export const EXPERIENCE: Experience[] = [
   },
   {
     id: 'exp4',
-    role: 'Intern',
+    role: 'Intern (Full-time, In-person)',
     company: 'LOTTE INNOVATE Tech AI. Team (Seoul, Republic of Korea)',
     period: 'Jul 2024 - Aug 2024',
     logo: '/assets/images/lotte_logo.webp',
@@ -168,7 +177,7 @@ export const EXPERIENCE: Experience[] = [
   },
   {
     id: 'exp5',
-    role: 'Undergraduate Researcher',
+    role: 'Undergraduate Researcher (Part-time, In-person)',
     company: 'KGU Smart IoT Lab (Suwon, Republic of Korea)',
     period: 'Jul 2023 - Dec 2024',
     logo: '/assets/images/kgu_logo.png',
