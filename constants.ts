@@ -2,7 +2,7 @@
 import { NewsItem, Project, Publication, Experience, Education, Award, TeachingExperience } from './types';
 
 export const HERO_STATEMENT = "Better than Best";
-export const ABOUT_TEXT = `Greetings! I am an Undergraduate Researcher passionate about HCI, Sensor Fusion, and Mobile Computing. I explore how machines can better understand human context by fusing physical signals with digital intelligence, bridging the gap between raw data and meaningful user experiences.
+export const ABOUT_TEXT = `Greetings! I am an incoming AI MS/PhD student at DGIST and currently a research intern at the Intelligent Radio Sensing (IRS) Lab @ DGIST, advised by Prof. Jae-Ho Choi in the Department of EECS & AI. My research interests consist of Sensor Fusion and (Radar) Sensing + AI. I explore how machines can better understand human context by fusing physical signals with digital intelligence, and I aspire to become a leading expert in the sensing domain.
 
 With research experiences at Purdue University, Seoul National University, ETRI, and LOTTE INNOVATE, I strive to turn innovative ideas into real-world solutions. I invite you to explore my CV and projects to learn more about this journey.`;
 
