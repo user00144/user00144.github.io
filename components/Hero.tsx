@@ -27,13 +27,15 @@ const Hero: React.FC = () => {
 
   // Text highlighting logic
   const keywords = [
-    "Undergraduate Researcher",
+    "incoming AI MS/PhD student at DGIST",
+    "Intelligent Radio Sensing (IRS) Lab @ DGIST",
+    "Prof. Jae-Ho Choi",
     "Purdue University",
     "Seoul National University",
     "ETRI",
     "LOTTE INNOVATE",
-    "HCI",
     "Sensor Fusion",
+    "(Radar) Sensing + AI",
     "Mobile Computing"
   ];
 
